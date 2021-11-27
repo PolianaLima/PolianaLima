@@ -1,4 +1,6 @@
-### Hi there 👋
+### Olá meu nome é Poliana Lima 👋
+
+<p>..Migrando para área de Desenvolvimento FrontEnd<p>
 
 <!--
 **PolianaLima/PolianaLima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
