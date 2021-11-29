@@ -1,6 +1,6 @@
 ### Olá eu sou Poliana Lima 👋
 
-- 🔭 Trabalho atualmente com Gestão de TI, na área de infraestrutura
+- 🔭 Trabalho atualmente com Gerência de TI, na área de infraestrutura
 - 🌱 Estudando: Javascript e Vue e cursando MBA em Engenharia de Softwares
 
 <div align="center">
